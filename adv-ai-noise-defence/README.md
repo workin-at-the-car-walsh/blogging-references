@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+This was part of an investigation into adversarial AI - robustness of ML systems
+
 ### Prerequisites
 
 - Python 3 (Tested on 3.6.8)
@@ -29,8 +31,7 @@ In this code sample, ResNet50 model pre-trained on ImageNet is used. You may ref
 ## Authors
 
 * **Aaron Chong** - *Initial work* - [aaronchong888](https://github.com/aaronchong888)
-
-See also the list of [contributors](https://github.com/aaronchong888/Targeted-Adversarial-Attacks/contributors) who participated in this project.
+* **Darcy Walsh** - *Forked and Modified for a particular demonstration*
 
 ## License
 
